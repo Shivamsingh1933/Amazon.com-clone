@@ -17,7 +17,7 @@ Version Control: Git, GitHub
 
 Setup Instructions
 Clone the repository:
-git clone https://github.com/Shivamsingh1933/shivamtech-clone.git
+git clone https://github.com/Shivamsingh1933/NexCart.git
 
 Navigate to the project directory:
 cd shivamtech
