@@ -1,4 +1,4 @@
-NexCart
+
 Welcome to the e-commerce Clone project(Amazon)! This is a full-stack web application built with HTML, CSS, JavaScript, and Django, aimed at replicating the core functionalities and user experience of the renowned e-commerce platform, Amazon.
 
 Features
