@@ -1,7 +1,7 @@
 
 Welcome to the e-commerce Clone project(Amazon)! This is a full-stack web application built with HTML, CSS, JavaScript, and Django, aimed at replicating the core functionalities and user experience of the renowned e-commerce platform, Amazon.
 
-Features
+<h1>Features</h1>
 Product Browsing: Browse through a wide range of products with intuitive navigation.
 Shopping Cart Management: Add products to your cart, update quantities, and proceed to checkout effortlessly.
 User Authentication: Register an account or log in securely to access personalized features.
