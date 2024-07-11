@@ -36,6 +36,8 @@ Open your web browser and navigate to http://localhost:8000 to view the applicat
 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests with improvements and new features.
 
+ <img src="djangoProject" alt=""/>
+
 
 
 
